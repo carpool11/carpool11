@@ -14,8 +14,11 @@
   <a href="https://github.com/carpool11">
     <img src="https://img.shields.io/badge/GitHub-carpool11-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://www.guet.edu.cn">
+    <img src="https://img.shields.io/badge/GUET-桂林电子科技大学-005BAC?style=for-the-badge&logo=schooloflife&logoColor=white" alt="GUET"/>
+  </a>
+  <a href="mailto:13307853713@163.com">
+    <img src="https://img.shields.io/badge/Email-13307853713%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -27,24 +30,25 @@
 
 ### 中文
 
-* 研究生一年级在读，方向为 **自然语言处理与大语言模型应用**
+* **桂林电子科技大学（GUET）** 研究生一年级在读，方向为 **自然语言处理与大语言模型应用**
 * 已完成 **BERT + CRF 中文命名实体识别**，设计三组消融实验，验证集 F1 达 **92.68%**
 * 已完成 **Qwen2.5-0.5B 的 LoRA 指令微调** 与 **双路召回重排 RAG**，检索 Hit@1 100%、端到端问答 12/12
 * 坚持 **白盒实现**：不依赖高层封装框架，检索与相似度计算全部手写 PyTorch
 * 习惯用 **消融实验与量化指标** 验证每一次设计改动，而不是只看最终效果
 * 正在推进 **vLLM 推理加速、Agent 工作流与服务化部署**（FastAPI / Gradio）
 * 可以交流 **Python / PyTorch / Transformers / LoRA / RAG / NER / BM25 / BGE**
-* 联系方式：**your.email@example.com**（记得替换成你的邮箱）
+* 联系方式：**[13307853713@163.com](mailto:13307853713@163.com)**
 
 ### English
 
-* First-year master's student focused on **NLP and LLM applications**
+* First-year master's student at **Guilin University of Electronic Technology (GUET)**, focused on **NLP and LLM applications**
 * Built **Chinese NER with BERT + CRF** with three ablation studies, dev F1 **92.68%**
 * Fine-tuned **Qwen2.5-0.5B with LoRA** and built a **hybrid retrieval RAG** pipeline: Hit@1 100%, end-to-end QA 12/12
 * Prefer **white-box implementations**: retrieval and similarity computed with hand-written PyTorch instead of high-level wrappers
 * Validate every design change with **ablation studies and quantitative metrics**
 * Currently working on **vLLM inference, Agent workflows and serving** (FastAPI / Gradio)
 * Ask me about **Python / PyTorch / Transformers / LoRA / RAG / NER / BM25 / BGE**
+* Contact: **[13307853713@163.com](mailto:13307853713@163.com)**
 
 ---
 
